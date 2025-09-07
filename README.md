@@ -22,3 +22,4 @@ Steps to run:
 10. optional: add the logo by clicking on the Assets in the project navigator then on AppIcon.
 11. Connect your iPhone and build the project. 
 
+![Not a nark?](https://github.com/Mirror-Prismals/Mira-iOS/blob/main/Screenshot%202025-09-07%20at%2011.34.34%20AM.jpeg?raw=true)
