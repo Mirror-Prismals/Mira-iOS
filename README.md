@@ -18,7 +18,7 @@ Steps to run:
 ```
 7. Tap your product name in the project navigator. in xcode this will look like the app store icon above the main project folder where GameViewController.swift and the other files are located.
 8. After you tap the project name, tap Info. In Custom iOS Target Properties, make a new property by pressing + next to an existing one. The properties you need to write reasons for are "Privacy - Microphone Usage Description" and "Privacy - Speech Recognition Usage Description"
-9. you can put the values as "we use microphone to let you use your voice to talk to the markov chain" and "we use speech recogniton to let you use your voice to talk to the markov chain" but it shouldnt matter for local use.
+9. you can put the values as "we use microphone to let you use your voice to talk to the markov chain" and "we use speech recogniton to let you use your voice to talk to the markov chain" but it shouldnt matter for local use. `please note apple processes your recorded voice whenever you use speech recognition anytime on an Iphone. Im working on a version of this script that doesnt need to use apples speech recognition`
 10. optional: add the logo by clicking on the Assets in the project navigator then on AppIcon.
 11. Connect your iPhone and build the project. 
 
